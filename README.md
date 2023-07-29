@@ -26,7 +26,7 @@ Clone this repository to your local machine.
 
 bash
 Copy code
-git clone https://github.com/your_username/plant-disease-classifier.git
+git clone https://github.com/sagarbiswas112/leaf-infection-classifier.git
 Create a Conda environment using the provided environment file.
 
 bash
