@@ -24,7 +24,7 @@ Getting Started:
 
 Clone this repository to your local machine.
 
-bash
+Bash
 Copy code
 git clone https://github.com/sagarbiswas112/leaf-infection-classifier.git
 Create a Conda environment using the provided environment file.
