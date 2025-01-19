@@ -34,11 +34,6 @@ Copy code
 conda env create -f environment.yml
 Activate the newly created Conda environment.
 
-sql
-Copy code
-conda activate plant-disease-classifier
-Run the Flask app to deploy the model on a local server.
-
 Copy code
 python app.py
 Access the classifier through your web browser using the provided local server address.
